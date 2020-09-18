@@ -2,4 +2,6 @@
 
 #   aid 学习
 
-![](./timg.jpg)
+
+![](./timg.jpg)qwwewrwqretertry
+
